@@ -3,7 +3,7 @@
 </p>
 
 <h1>How to Setup a Subscription and a Resource in Azure</h1>
-This tutorial is desined to teach absolute beginners that have never touched Azure before how to properly set up an Azure subscription so that they can learn and do labs to practice and gain experince with Azure.<br />
+This tutorial is designed to teach new Azure users on how to properly set up an Azure subscription so that they can learn and do labs to practice and gain experince with Azure.<br />
 
 <h2>Environments and Technologies Used</h2>
 
